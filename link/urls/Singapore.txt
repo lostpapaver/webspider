@@ -1,0 +1,5 @@
+http://aqicn.org/city/singapore/north/
+http://aqicn.org/city/singapore/south/
+http://aqicn.org/city/singapore/east/
+http://aqicn.org/city/singapore/west/
+http://aqicn.org/city/singapore/central/

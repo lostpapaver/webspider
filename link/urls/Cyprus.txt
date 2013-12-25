@@ -1,0 +1,11 @@
+http://aqicn.org/city/cyprius/nicosia/residential/
+http://aqicn.org/city/cyprius/nicosia/traffic/
+http://aqicn.org/?city=Cyprius/AgiaMarinaXyliatou%E2%80%93EMEP
+http://aqicn.org/city/cyprius/pafos/traffic/
+http://aqicn.org/city/cyprius/inia/
+http://aqicn.org/city/cyprius/kavogreko/
+http://aqicn.org/city/cyprius/larnaca/traffic/
+http://aqicn.org/city/cyprius/larnaca/residential/
+http://aqicn.org/city/cyprius/zygi/industrial/
+http://aqicn.org/city/cyprius/limassol/traffic/
+http://aqicn.org/city/cyprius/limassol/residential/

@@ -1,0 +1,15 @@
+http://aqicn.org/city/hongkong/central/western/
+http://aqicn.org/city/hongkong/eastern/
+http://aqicn.org/city/hongkong/kwaichung/
+http://aqicn.org/city/hongkong/kwuntong/
+http://aqicn.org/city/hongkong/shatin/
+http://aqicn.org/city/hongkong/shamshuipo/
+http://aqicn.org/city/hongkong/taipo/
+http://aqicn.org/city/hongkong/tapmun/
+http://aqicn.org/city/hongkong/tsuenwan/
+http://aqicn.org/city/hongkong/tungchung/
+http://aqicn.org/city/hongkong/yuenlong/
+http://aqicn.org/city/hongkong/causewaybay/
+http://aqicn.org/city/hongkong/central/
+http://aqicn.org/city/hongkong/mongkok/
+http://aqicn.org/city/hongkong/

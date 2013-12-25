@@ -1,0 +1,4 @@
+http://aqicn.org/?city=Peru/Lima/SanBorja
+http://aqicn.org/?city=Peru/Lima/CampoDeMarte
+http://aqicn.org/?city=Peru/Lima/VillaMariaDelTriunfo
+http://aqicn.org/?city=Peru/Lima/SantaAnita
