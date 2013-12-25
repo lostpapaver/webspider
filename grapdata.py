@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 #coding=utf8
+#author  by  lukawa
 import urllib
 import urllib2
 import cookielib
