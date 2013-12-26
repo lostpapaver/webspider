@@ -1,0 +1,15 @@
+http://aqicn.org/?city=Australia/Melbourne/Alphington
+http://aqicn.org/?city=Australia/Melbourne/BoxHill
+http://aqicn.org/?city=Australia/Melbourne/Brighton
+http://aqicn.org/?city=Australia/Melbourne/Dandenong
+http://aqicn.org/?city=Australia/Melbourne/Mooroolbark
+http://aqicn.org/?city=Australia/Melbourne/AltonaNorth
+http://aqicn.org/?city=Australia/Melbourne/Brooklyn
+http://aqicn.org/?city=Australia/Melbourne/DeerPark
+http://aqicn.org/?city=Australia/Melbourne/Footscray
+http://aqicn.org/?city=Australia/Melbourne/Melton
+http://aqicn.org/?city=Australia/Melbourne/Pt.Cook
+http://aqicn.org/?city=Australia/Melbourne/Yarraville
+http://aqicn.org/?city=Australia/Melbourne/Richmond
+http://aqicn.org/?city=Australia/Melbourne/GeelongSth.
+http://aqicn.org/?city=Australia/Melbourne/Traralgon
